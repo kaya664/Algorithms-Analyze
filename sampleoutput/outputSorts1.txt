@@ -1,0 +1,336 @@
+Insertion Sort - RandomSorted 5000 Array time: 31.0  Basic Operations:  6216313
+
+
+Quick Sort - RandomSorted 5000 Array time: 0.0  Basic Operations:  132070
+
+
+Quick First Sort - RandomSorted 5000 Array time: 0.0  Basic Operations:  203433
+
+
+Merge Sort - RandomSorted 5000 Array time: 15.0  Basic Operations:  258975
+
+
+Insertion Sort - BestSorted 5000 Array time: 0.0  Basic Operations:  9998
+
+
+Quick Sort - BestSorted 5000 Array time: 0.0  Basic Operations:  66582
+
+
+Quick First Sort - BestSorted 5000 Array time: 78.0  Basic Operations:  12542493
+
+
+Merge Sort - BestSorted 5000 Array time: 0.0  Basic Operations:  177816
+
+
+Insertion Sort - WorstSorted 5000 Array time: 15.0  Basic Operations:  12507498
+
+
+Quick Sort - WorstSorted 5000 Array time: 0.0  Basic Operations:  74094
+
+
+Quick First Sort - WorstSorted 5000 Array time: 62.0  Basic Operations:  12539993
+
+
+Merge Sort - WorstSorted 5000 Array time: 16.0  Basic Operations:  267228
+
+
+Insertion Sort - AlmostSorted 5000 Array time: 0.0  Basic Operations:  43032
+
+
+Quick Sort - AlmostSorted 5000 Array time: 0.0  Basic Operations:  81668
+
+
+Quick First Sort - AlmostSorted 5000 Array time: 15.0  Basic Operations:  3426858
+
+
+Merge Sort - AlmostSorted 5000 Array time: 0.0  Basic Operations:  198156
+
+
+Insertion Sort - RandomSorted 10000 Array time: 47.0  Basic Operations:  24896153
+
+
+Quick Sort - RandomSorted 10000 Array time: 0.0  Basic Operations:  287088
+
+
+Quick First Sort - RandomSorted 10000 Array time: 0.0  Basic Operations:  669222
+
+
+Merge Sort - RandomSorted 10000 Array time: 0.0  Basic Operations:  556910
+
+
+Insertion Sort - BestSorted 10000 Array time: 0.0  Basic Operations:  19998
+
+
+Quick Sort - BestSorted 10000 Array time: 0.0  Basic Operations:  143151
+
+
+Quick First Sort - BestSorted 10000 Array time: 250.0  Basic Operations:  50084993
+
+
+Merge Sort - BestSorted 10000 Array time: 0.0  Basic Operations:  380636
+
+
+Insertion Sort - WorstSorted 10000 Array time: 94.0  Basic Operations:  50014998
+
+
+Quick Sort - WorstSorted 10000 Array time: 0.0  Basic Operations:  158164
+
+
+Quick First Sort - WorstSorted 10000 Array time: 218.0  Basic Operations:  50079993
+
+
+Merge Sort - WorstSorted 10000 Array time: 0.0  Basic Operations:  574460
+
+
+Insertion Sort - AlmostSorted 10000 Array time: 0.0  Basic Operations:  159112
+
+
+Quick Sort - AlmostSorted 10000 Array time: 0.0  Basic Operations:  174101
+
+
+Quick First Sort - AlmostSorted 10000 Array time: 31.0  Basic Operations:  7939930
+
+
+Merge Sort - AlmostSorted 10000 Array time: 0.0  Basic Operations:  432713
+
+
+Insertion Sort - RandomSorted 25000 Array time: 281.0  Basic Operations:  153391865
+
+
+Quick Sort - RandomSorted 25000 Array time: 0.0  Basic Operations:  800094
+
+
+Quick First Sort - RandomSorted 25000 Array time: 16.0  Basic Operations:  3527160
+
+
+Merge Sort - RandomSorted 25000 Array time: 16.0  Basic Operations:  1522976
+
+
+Insertion Sort - BestSorted 25000 Array time: 0.0  Basic Operations:  49998
+
+
+Quick Sort - BestSorted 25000 Array time: 0.0  Basic Operations:  399163
+
+
+Quick First Sort - BestSorted 25000 Array time: 1407.0  Basic Operations:  312712493
+
+
+Merge Sort - BestSorted 25000 Array time: 15.0  Basic Operations:  1032656
+
+
+Insertion Sort - WorstSorted 25000 Array time: 516.0  Basic Operations:  312537498
+
+
+Quick Sort - WorstSorted 25000 Array time: 0.0  Basic Operations:  436672
+
+
+Quick First Sort - WorstSorted 25000 Array time: 1328.0  Basic Operations:  312699993
+
+
+Merge Sort - WorstSorted 25000 Array time: 0.0  Basic Operations:  1568924
+
+
+Insertion Sort - AlmostSorted 25000 Array time: 0.0  Basic Operations:  898403
+
+
+Quick Sort - AlmostSorted 25000 Array time: 16.0  Basic Operations:  474155
+
+
+Quick First Sort - AlmostSorted 25000 Array time: 141.0  Basic Operations:  25887992
+
+
+Merge Sort - AlmostSorted 25000 Array time: 15.0  Basic Operations:  1217525
+
+
+Insertion Sort - RandomSorted 50000 Array time: 1282.0  Basic Operations:  618354503
+
+
+Quick Sort - RandomSorted 50000 Array time: 15.0  Basic Operations:  1687988
+
+
+Quick First Sort - RandomSorted 50000 Array time: 63.0  Basic Operations:  13263043
+
+
+Merge Sort - RandomSorted 50000 Array time: 15.0  Basic Operations:  3246910
+
+
+Insertion Sort - BestSorted 50000 Array time: 0.0  Basic Operations:  99998
+
+
+Quick Sort - BestSorted 50000 Array time: 0.0  Basic Operations:  848316
+
+
+Quick First Sort - BestSorted 50000 Array time: 4813.0  Basic Operations:  1250424993
+
+
+Merge Sort - BestSorted 50000 Array time: 15.0  Basic Operations:  2190316
+
+
+Insertion Sort - WorstSorted 50000 Array time: 2172.0  Basic Operations:  1250074998
+
+
+Quick Sort - WorstSorted 50000 Array time: 0.0  Basic Operations:  923326
+
+
+Quick First Sort - WorstSorted 50000 Array time: 5453.0  Basic Operations:  1250399993
+
+
+Merge Sort - WorstSorted 50000 Array time: 16.0  Basic Operations:  3337852
+
+
+Insertion Sort - AlmostSorted 50000 Array time: 0.0  Basic Operations:  3381489
+
+
+Quick Sort - AlmostSorted 50000 Array time: 0.0  Basic Operations:  1033373
+
+
+Quick First Sort - AlmostSorted 50000 Array time: 156.0  Basic Operations:  41568691
+
+
+Merge Sort - AlmostSorted 50000 Array time: 0.0  Basic Operations:  2678827
+
+
+Insertion Sort - RandomSorted 100000 Array time: 4532.0  Basic Operations:  2473269981
+
+
+Quick Sort - RandomSorted 100000 Array time: 15.0  Basic Operations:  3612266
+
+
+Quick First Sort - RandomSorted 100000 Array time: 235.0  Basic Operations:  51650685
+
+
+Merge Sort - RandomSorted 100000 Array time: 31.0  Basic Operations:  6891268
+
+
+Insertion Sort - BestSorted 100000 Array time: 0.0  Basic Operations:  199998
+
+
+Quick Sort - BestSorted 100000 Array time: 0.0  Basic Operations:  1796621
+
+
+Quick First Sort - BestSorted 100000 Array time: 19344.0  Basic Operations:  5000849993
+
+
+Merge Sort - BestSorted 100000 Array time: 16.0  Basic Operations:  4630636
+
+
+Insertion Sort - WorstSorted 100000 Array time: 8672.0  Basic Operations:  5000149998
+
+
+Quick Sort - WorstSorted 100000 Array time: 0.0  Basic Operations:  1946632
+
+
+Quick First Sort - WorstSorted 100000 Array time: 19063.0  Basic Operations:  5000799993
+
+
+Merge Sort - WorstSorted 100000 Array time: 16.0  Basic Operations:  7075708
+
+
+Insertion Sort - AlmostSorted 100000 Array time: 31.0  Basic Operations:  13557705
+
+
+Quick Sort - AlmostSorted 100000 Array time: 16.0  Basic Operations:  2284132
+
+
+Quick First Sort - AlmostSorted 100000 Array time: 344.0  Basic Operations:  89617937
+
+
+Merge Sort - AlmostSorted 100000 Array time: 16.0  Basic Operations:  5728543
+
+
+Insertion Sort - RandomSorted 250000 Array time: 27501.0  Basic Operations:  15453074952
+
+
+Quick Sort - RandomSorted 250000 Array time: 31.0  Basic Operations:  9880971
+
+
+Quick First Sort - RandomSorted 250000 Array time: 1437.0  Basic Operations:  316294075
+
+
+Merge Sort - RandomSorted 250000 Array time: 125.0  Basic Operations:  18446742
+
+
+Insertion Sort - BestSorted 250000 Array time: 15.0  Basic Operations:  499998
+
+
+Quick Sort - BestSorted 250000 Array time: 16.0  Basic Operations:  4643230
+
+
+Quick First Sort - BestSorted 250000 Array time: 97598.0  Basic Operations:  31252124993
+
+
+Merge Sort - BestSorted 250000 Array time: 15.0  Basic Operations:  12287676
+
+
+Insertion Sort - WorstSorted 250000 Array time: 43893.0  Basic Operations:  31250374998
+
+
+Quick Sort - WorstSorted 250000 Array time: 16.0  Basic Operations:  5018242
+
+
+Quick First Sort - WorstSorted 250000 Array time: 112224.0  Basic Operations:  31251999993
+
+
+Merge Sort - WorstSorted 250000 Array time: 15.0  Basic Operations:  18951420
+
+
+Insertion Sort - AlmostSorted 250000 Array time: 125.0  Basic Operations:  82388320
+
+
+Quick Sort - AlmostSorted 250000 Array time: 31.0  Basic Operations:  6032540
+
+
+Quick First Sort - AlmostSorted 250000 Array time: 829.0  Basic Operations:  268510015
+
+
+Merge Sort - AlmostSorted 250000 Array time: 16.0  Basic Operations:  15624054
+
+
+Insertion Sort - RandomSorted 500000 Array time: 102880.0  Basic Operations:  61907083100
+
+
+Quick Sort - RandomSorted 500000 Array time: 93.0  Basic Operations:  21202473
+
+
+Quick First Sort - RandomSorted 500000 Array time: 5563.0  Basic Operations:  1258128300
+
+
+Merge Sort - RandomSorted 500000 Array time: 110.0  Basic Operations:  38883546
+
+
+Insertion Sort - BestSorted 500000 Array time: 0.0  Basic Operations:  999998
+
+
+Quick Sort - BestSorted 500000 Array time: 32.0  Basic Operations:  9786447
+
+
+Quick First Sort - BestSorted 500000 Array time: 456584.0  Basic Operations:  125004249993
+
+
+Merge Sort - BestSorted 500000 Array time: 62.0  Basic Operations:  25825356
+
+
+Insertion Sort - WorstSorted 500000 Array time: 188665.0  Basic Operations:  125000749998
+
+
+Quick Sort - WorstSorted 500000 Array time: 16.0  Basic Operations:  10536460
+
+
+Quick First Sort - WorstSorted 500000 Array time: 497836.0  Basic Operations:  125003999993
+
+
+Merge Sort - WorstSorted 500000 Array time: 62.0  Basic Operations:  39902844
+
+
+Insertion Sort - AlmostSorted 500000 Array time: 688.0  Basic Operations:  334008144
+
+
+Quick Sort - AlmostSorted 500000 Array time: 62.0  Basic Operations:  12842844
+
+
+Quick First Sort - AlmostSorted 500000 Array time: 3766.0  Basic Operations:  848400991
+
+
+Merge Sort - AlmostSorted 500000 Array time: 62.0  Basic Operations:  33152424
+
+
